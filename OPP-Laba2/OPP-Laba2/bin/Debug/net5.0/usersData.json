@@ -1,0 +1,234 @@
+[
+    {
+        "student": {
+            "person": {
+                "Name": "Ivan",
+                "Surname": "Grydinin",
+                "Birthday": "2003-07-13T00:00:00"
+            },
+            "degree": {
+                "Bachelor": true,
+                "Specialist": true,
+                "Master": true
+            },
+            "exams": [
+                {
+                    "Subject": "Pe",
+                    "Mark": "2",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "Chemistry",
+                    "Mark": "3",
+                    "Date": "2022-01-10T00:00:00"
+                }
+            ]
+        },
+        "userId": -624908102,
+        "userName": "Ivan Grydinin",
+        "userEmail": "ivan@gmail.com",
+        "userPhone": "\u002B380981654253",
+        "userPassword": "-821209603306902128-",
+        "passwordSalt": "306902128-"
+    },
+    {
+        "student": {
+            "person": {
+                "Name": "Daninus",
+                "Surname": "Poshtarenko",
+                "Birthday": "2003-07-13T00:00:00"
+            },
+            "degree": {
+                "Bachelor": true,
+                "Specialist": false,
+                "Master": false
+            },
+            "exams": [
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "OOP",
+                    "Mark": "500",
+                    "Date": "2022-01-10T00:00:00"
+                }
+            ]
+        },
+        "userId": -1250420267,
+        "userName": "Daninus Poshtarenko",
+        "userEmail": "danya@bitcoin.com",
+        "userPhone": "\u002B380987654222",
+        "userPassword": "-821209603306902128-",
+        "passwordSalt": "306902128-"
+    },
+    {
+        "student": {
+            "person": {
+                "Name": "Pavlo",
+                "Surname": "Soroka",
+                "Birthday": "2003-07-13T00:00:00"
+            },
+            "degree": {
+                "Bachelor": false,
+                "Specialist": false,
+                "Master": false
+            },
+            "exams": [
+                {
+                    "Subject": "English",
+                    "Mark": "3",
+                    "Date": "2022-01-11T00:00:00"
+                }
+            ]
+        },
+        "userId": -1230913994,
+        "userName": "Pavlo Soroka",
+        "userEmail": "pavlo@bandera.ua",
+        "userPhone": "\u002B380998765432",
+        "userPassword": "-821209603306902128-",
+        "passwordSalt": "306902128-"
+    },
+    {
+        "student": {
+            "person": {
+                "Name": "Vitaliy",
+                "Surname": "Tkachov",
+                "Birthday": "2003-07-13T00:00:00"
+            },
+            "degree": {
+                "Bachelor": true,
+                "Specialist": false,
+                "Master": false
+            },
+            "exams": [
+                {
+                    "Subject": "Math",
+                    "Mark": "5",
+                    "Date": "2022-01-10T00:00:00"
+                },
+                {
+                    "Subject": "English",
+                    "Mark": "3",
+                    "Date": "2022-01-11T00:00:00"
+                }
+            ]
+        },
+        "userId": -430085957,
+        "userName": "Vitaliy Tkachov",
+        "userEmail": "vitalik@stepanky.ua",
+        "userPhone": "\u002B380987654321",
+        "userPassword": "-821209603306902128-",
+        "passwordSalt": "306902128-"
+    },
+    {
+        "student": {
+            "person": {
+                "Name": "Serhii",
+                "Surname": "Stepanetc",
+                "Birthday": "2003-03-16T00:00:00"
+            },
+            "degree": {
+                "Bachelor": true,
+                "Specialist": true,
+                "Master": false
+            },
+            "exams": [
+                {
+                    "Subject": "PE",
+                    "Mark": "5",
+                    "Date": "2022-01-09T00:00:00"
+                },
+                {
+                    "Subject": "Ukrainian",
+                    "Mark": "3",
+                    "Date": "2022-01-12T00:00:00"
+                },
+                {
+                    "Subject": "Biology",
+                    "Mark": "5",
+                    "Date": "2022-01-24T00:00:00"
+                }
+            ]
+        },
+        "userId": -794266010,
+        "userName": "Serhii Stepanetc",
+        "userEmail": "ezserg@com.ua",
+        "userPhone": "\u002B380751837402",
+        "userPassword": "-821209603306902128-",
+        "passwordSalt": "306902128-"
+    },
+    {
+        "student": {
+            "person": {
+                "Name": "Serhii",
+                "Surname": "Vodianov",
+                "Birthday": "2003-01-21T00:00:00"
+            },
+            "degree": {
+                "Bachelor": true,
+                "Specialist": true,
+                "Master": true
+            },
+            "exams": [
+                {
+                    "Subject": "OOP",
+                    "Mark": "5",
+                    "Date": "2022-07-06T00:00:00"
+                },
+                {
+                    "Subject": "English",
+                    "Mark": "5",
+                    "Date": "2022-07-12T00:00:00"
+                }
+            ]
+        },
+        "userId": -1690773149,
+        "userName": "Serhii Vodianov",
+        "userEmail": "serhiivo@spg.com",
+        "userPhone": "\u002B380731028164",
+        "userPassword": "19992799533599729991",
+        "passwordSalt": "3599729991"
+    }
+]

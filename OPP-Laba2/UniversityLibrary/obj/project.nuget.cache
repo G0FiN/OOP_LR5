@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEk8Q2cGVr0R2AnJgcxboChQpjBCej9H5hcO2OLHbUxn9/oIK5SF2IM3mH0gd6D7ljPmbPBw4p7rhpuCew44wA==",
+  "success": true,
+  "projectFilePath": "/Users/strawberry/Desktop/OPP-Laba2/UniversityLibrary/UniversityLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/strawberry/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
